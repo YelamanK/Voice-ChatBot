@@ -1,1 +1,1 @@
-API_KEY = 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
+API_KEY = #insert API key here
